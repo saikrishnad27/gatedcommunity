@@ -1,0 +1,44 @@
+<resources>
+    <string name="default_notification_channel_id">krishna</string>
+
+    <string name="app_name">colony</string>
+    <string name="item_name">charminar</string>
+    <string name="details">Hyderabad</string>
+    <string name="attractions">Announcement</string>
+    <string name="event">Payment</string>
+    <string name="restaurant">Hotels</string>
+    <string name="food">Food</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="charminar">The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad.</string>
+    <string name="charminar_desc">Timings - 9:30AM To 6:00PM</string>
+    <string name="golkonda">Golkonda, also known as Golconda, Gol konda, or Golla konda, is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty, is situated 11 km west of Hyderabad. It is also a tehsil of Hyderabad district, Telangana, India.</string>
+    <string name="golkonda_desc">Timings - 9:30AM To 6:30PM</string>
+    <string name="hussainsagar">Hussain Sagar, is a necklace shaped lake in Hyderabad built by Ibrahim Quli Qutb Shah, and named after Hussain Shah Wali. It is spread across an area of 5.7 square kilometers and is fed by River Musi. A large monolithic statue of the Gautama Buddha, erected in 1992, stands on Gibraltar Rock in the middle of the lake. </string>
+    <string name="hussainsagar_desc">Timings - Anytime</string>
+    <string name="salarjung">Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the three National Museums of India.</string>
+    <string name="salarjung_desc">Timings - 9:00AM To 5:30PM</string>
+    <string name="event1">Unite India is a event conducted on December 5th in Novotel Hyderabad Convention Centre Near, Kondapur, Izzathnagar, HITEC City, Hyderabad, Telangana</string>
+    <string name="event2">TEDxHyderabadWomen 2018,Sunday, 9 December, 2018, Old Mumbai Hwy, Raidurgam, Madhura Nagar Colony, Hyderabad, Telangana</string>
+    <string name="event3">Network Meeting , Friday, 7 December, 2018, Satyam Theatre Road, Kumar Basti, Srinivasa Nagar, Ameerpet, Hyderabad, Telangana</string>
+    <string name="event4">Exhibition – Atout France, Wednesday, 5 December, 2018, Plot no.4, 645, Banjara Hills Road Number 3, Venkateshwara Nagar, Sri Nagar Colony, Aurora Colony, Banjara Hills, Hyderabad, Telangana</string>
+    <string name="hotel1">Taj Falaknuma Palace , Engine Bowli, Fatima Nagar, Falaknuma, Hyderabad, Telangana 500053•040 6629 8585</string>
+    <string name="hotel2">ITC Kakatiya, Begumpet Road, 6 -3 -1187, Greenlands Rd, Teachers Colony, Hyderabad, Telangana 500016</string>
+    <string name="hotel3">Lemon Tree Premier, HITEC City, Plot No. 2, Survey No. 64, Phase 2, HITEC City, Hyderabad, Telangana 500081</string>
+    <string name="hotel4">Hyderabad Marriott Hotel and Convention Centre, Tank Bund Rd, Opposite, Hussain Sagar, Lake, Hyderabad, Telanagana 500080</string>
+    <string name="food1">Hyderabadi Biryani, You talk about biryanis without mentioning the Hyderabadi Biryani. Cooked with either mutton or chicken, and laced with rich ingredients, this recipe is the stairway to heaven. Believe it or not, this dish is such a favourite that people dont mind having it for breakfast, lunch or dinner!</string>
+    <string name="food2">Boti Kebab, Imagine hot kebabas melting in your mouth? Just the thought of this tasty preparation will give you a foodgasm. Intensely marinated mutton cooked with garden-fresh herbs is the secret behind the impeccable taste. Dont just drool, the word is </string>
+    <string name="food3">Khatti Dal, This piquant Hyderabadi style lentil stew will give you a loud chattka. The star ingredient of this dish is tamarind, which lends the dal its zesty flavour, making it more tempting than ever. Relish this with rice and a meat dish!</string>
+    <string name="food4">Malai Korma, Want to enjoy some creamy gravy? Then the palatable Malai Korma is the dish for you. The extra hint of cream gives it a rich taste. Sour tomatoes are added to balance the flavour. Serve it hot with rotis or rice.</string>
+    <string name="empty"> </string>
+    <string name="star5">5 Star Hotel</string>
+    <string name="star4">4 Star Hotel</string>
+    <string name="announce">Announcement</string>
+    <string name="emergency">WORKERS INFO</string>
+    <string name="issues">HouseHold Issues</string>
+    <string name="works">Street Problems</string>
+    <string name="payment">Payment</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="newusers">New Users</string>
+    <string name="userissues">Notification</string>
+    <string name="updation">Update Info</string>
+</resources>

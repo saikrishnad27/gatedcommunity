@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbars="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/bgnew">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="NAME: "
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/name1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/name"
+                android:layout_toRightOf="@id/name"
+                android:hint="Enter Name"
+                android:layout_marginTop="10dp"
+                android:inputType="text"
+                android:background="@drawable/border"
+                android:textColor="#0eafcf"
+                android:textSize="16sp"
+
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/UserId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="USER ID :"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/userid1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/UserId"
+                android:layout_toRightOf="@id/UserId"
+                android:hint="Enter USER ID"
+                android:background="@drawable/border"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/pass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="PASSWORD:"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/password1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/pass"
+                android:layout_toRightOf="@id/pass"
+                android:hint="Enter password"
+                android:inputType="textPassword"
+                android:textColor="#000000"
+                android:background="@drawable/border"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+                android:textSize="16sp"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/retype"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="RETYPE PASSWORD :"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/retype1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/retype"
+                android:layout_toRightOf="@id/retype"
+                android:hint="RETYPE PASSWORD"
+                android:inputType="textPassword"
+                android:background="@drawable/border"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/mobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="MOBILE :"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/mobile1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/mobile"
+                android:layout_toRightOf="@id/mobile"
+                android:hint="Enter Mobile"
+                android:background="@drawable/border"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/flatNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="FLAT NO :"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/flatno1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/flatNo"
+                android:layout_toRightOf="@id/flatNo"
+                android:hint="Enter Flat No"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:background="@drawable/border"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+                android:textSize="16sp"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="EMAIL ID :"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/email1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/email"
+                android:layout_toRightOf="@id/email"
+                android:hint="Enter Email Id"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/border"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="3dp"
+
+                android:textColor="#000000"
+                android:textSize="16sp"
+                tools:ignore="HardcodedText" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/submit1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SUBMIT"
+            android:textSize="16sp"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+</ScrollView>

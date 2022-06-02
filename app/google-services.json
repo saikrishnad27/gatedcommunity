@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "527273531780",
+    "firebase_url": "https://colony-447ed.firebaseio.com",
+    "project_id": "colony-447ed",
+    "storage_bucket": "colony-447ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527273531780:android:47d0c991a14a788c",
+        "android_client_info": {
+          "package_name": "com.example.android.colony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527273531780-lltcne0jsdo8mf9i2pof2urj98kbr8oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.colony",
+            "certificate_hash": "1aa8afc66097d80c9a7995dd36aa49160543114a"
+          }
+        },
+        {
+          "client_id": "527273531780-tvhplhnfo2k1evqjekhru4oqh8e7maqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.colony",
+            "certificate_hash": "628c8e38b77e4467513d273d8b7e9b8e1145957e"
+          }
+        },
+        {
+          "client_id": "527273531780-3hj1bh9pd7ok0bppcqhnddrnp9i9n5cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlM3ol7i7ZwF6f8oTSHipyOXXXFS-LhRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527273531780-3hj1bh9pd7ok0bppcqhnddrnp9i9n5cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527273531780:android:8fdb4107c9d6e209",
+        "android_client_info": {
+          "package_name": "com.ntr.krishna.problemfreehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527273531780-72n8fotfvm1k101o4cb4ail0skb3obog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntr.krishna.problemfreehome",
+            "certificate_hash": "1aa8afc66097d80c9a7995dd36aa49160543114a"
+          }
+        },
+        {
+          "client_id": "527273531780-3hj1bh9pd7ok0bppcqhnddrnp9i9n5cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlM3ol7i7ZwF6f8oTSHipyOXXXFS-LhRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527273531780-3hj1bh9pd7ok0bppcqhnddrnp9i9n5cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
